@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT cherry_mart_4920.wsgi:application
